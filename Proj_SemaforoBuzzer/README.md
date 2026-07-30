@@ -11,3 +11,5 @@ pedidos feitos para o sistema. Contém a presença de várias funções treinada
 das aulas de programação estruturada, e de microcontroladores.
 
 No relatório podem ser vistos mais detalhes sobre a montagem, requisitos, objetivos e os resultados.
+
+Esta versão foi corrigida, a fim de obter o melhor funcionamento da lógica para as funções definidas.
